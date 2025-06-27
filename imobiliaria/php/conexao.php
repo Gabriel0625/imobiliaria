@@ -1,0 +1,1 @@
+<?php $conexao = new mysqli('localhost','root','root','imobiliaria'); if($conexao->connect_error){die('Erro');} ?>
